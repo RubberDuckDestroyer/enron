@@ -1,0 +1,7 @@
+To email addresses:
+
+[('kenneth.lay@enron.com', 4), ('klay@enron.com', 3), ('dherrold@enlineresources.com', 3), ('nlay@worldnet.att.net', 3), ('lizard_ar@yahoo.com', 3), ('sharon@travelpark.com', 3), ('vermeil@ev1.net', 3), ('poppopindc@aol.com', 2), ('marlenen@rowefurniture.com', 2), ('aka@zdimensional.com', 2)]    
+
+From email addresses:
+
+[('mrslinda@lplpi.com', 3), ('beau@rrhinvestments.com', 2), ('nlay@att.net', 2), ('sally.keepers@enron.com', 1)]
